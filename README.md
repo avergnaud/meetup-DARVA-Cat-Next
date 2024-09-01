@@ -6,12 +6,6 @@ L'objectif de ce meetup est de comparer deux solutions selon leurs performances 
 
 Les `.bat` et `.ps1` s'exécutent sur environnement Windows...
 
-TODO : équivalent en Linux
-
-## Architecture des tests de performance en local
-
-![archi locale](./docs/meetup-DARVA-Cat-Next_local.drawio.png?raw=true)
-
 ## Architecture des tests de performance en déployé
 
 ![archi déployée](./docs/meetup-DARVA-Cat-Next_server.drawio.png?raw=true)
@@ -37,21 +31,9 @@ Depuis le répertoire `selenium` :
 
 [https://www.selenium.dev/documentation/grid/getting_started/](https://www.selenium.dev/documentation/grid/getting_started/)
 
-### ELK
+### Serveur de stats
 
-* Docker ou podman doit être installé sur le poste
-* Cloner le repo [docker-elk](https://github.com/deviantony/docker-elk)
-* Editer le fichier `elasticsearch.yml`, ajouter les lignes suivantes :
-  ```
-  http.cors.allow-origin: "*"
-  http.cors.enabled: true
-  http.cors.allow-credentials: true
-  http.cors.allow-methods: OPTIONS, POST
-  http.cors.allow-headers: authorization,X-Requested-With, X-Auth-Token, Content-Type, Content-Length, Authorization,   Access-Control-Allow-Headers, Accept
-  ```
-* Exécuter `podman compose up setup`
-* Exécuter `podman compose up`
-* Se connecter à Kibana, URL `http://localhost:5601`, utilisateur `{elastic, changeme}`
+* Dans le répertoire `simple-rest-api`, exécuter `npm install`
 
 #### Références
 
@@ -75,22 +57,16 @@ Depuis le répertoire `next-rsc-cache`
 
 Cette première requête crée un index dans ELK [http://localhost:9200/next-rsc-cache/_search](http://localhost:9200/next-rsc-cache/_search)
 
-### Retour à ELK
-
-* Créer les 2 data views dans Kibana :
-
-![Kibana data views](./docs/kibana_data_views.png?raw=true)
-
 ## run
+
+### serveur de stats
+
+* Dans le répertoire `simple-rest-api`, exécuter `node index.js`
 
 ### Selenium grid
 
 * Démarrer Selenium Grid avec `start-selenium-server.bat`
-* Consulter l'admin à l'URL [http://192.168.1.196:4444/ui/#](http://192.168.1.196:4444/ui/#)
-
-### ELK
-
-* Vérifier que ELK est up (`podman compose up`)
+* Consulter l'admin à l'URL [http://192.168.1.193:4444/ui/#](http://192.168.1.196:4444/ui/#)
 
 ### Application React | Next
 
@@ -102,11 +78,11 @@ Cette première requête crée un index dans ELK [http://localhost:9200/next-rsc
 
 ### Résultats
 
-* Consulter les performances de [Core Web Vitals](https://support.google.com/webmasters/answer/9205520?hl=fr) dans Kibana
+* Consulter les performances de [Core Web Vitals](https://support.google.com/webmasters/answer/9205520?hl=fr) sur [http://localhost:3100/stats](http://localhost:3100/stats)
 
-## Test des applications déployées
+## Démo
 
-
+[batch_1_30rq.webm](./docs/batch_1_30rq.webm?raw=true)
 
 ## Références Next.js
 
