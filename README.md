@@ -47,7 +47,7 @@ Depuis le répertoire `selenium` :
   http.cors.enabled: true
   http.cors.allow-credentials: true
   http.cors.allow-methods: OPTIONS, POST
-  http.cors.allow-headers: X-Requested-With, X-Auth-Token, Content-Type, Content-Length, Authorization,   Access-Control-Allow-Headers, Accept
+  http.cors.allow-headers: authorization,X-Requested-With, X-Auth-Token, Content-Type, Content-Length, Authorization,   Access-Control-Allow-Headers, Accept
   ```
 * Exécuter `podman compose up setup`
 * Exécuter `podman compose up`
