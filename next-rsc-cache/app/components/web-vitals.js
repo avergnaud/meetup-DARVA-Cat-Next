@@ -2,15 +2,13 @@
 
 import { useReportWebVitals } from 'next/web-vitals'
 
-const elkHost = process.env.ELK_HOST;
-
 export function WebVitals() {
 
   useReportWebVitals((metric) => {
     if(!['FCP', 'LCP'].includes(metric.name)) {
       return;
     }
-    const url = `http://${elkHost}:9200/next-rsc-cache/_doc?pretty`;
+    const url = `http://192.168.1.196:9200/next-rsc-cache/_doc?pretty`;
     const now = new Date();
     const stat = {
       '@timestamp': now.toISOString(),
