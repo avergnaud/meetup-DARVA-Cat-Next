@@ -17,11 +17,12 @@ function sendToAnalytics(metric) {
   if(!['FCP', 'LCP'].includes(metric.name)) {
     return;
   }
-  const url = 'http://192.168.1.193:9200/react-load-data/_doc?pretty';
+  const url = 'http://192.168.1.196:3100/';
   const now = new Date();
   const stat = {
     '@timestamp': now.toISOString(),
-    name: metric.name,
+    appname: 'react-load-data',
+    metricname: metric.name,
     value: metric.value
   }
   const body = JSON.stringify(stat);
@@ -29,7 +30,6 @@ function sendToAnalytics(metric) {
     {
       method: 'POST',
       headers: {
-        'Authorization': 'Basic ' + btoa("elastic:changeme"),
         'Content-Type': 'application/json'
       },
       body,
