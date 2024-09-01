@@ -17,7 +17,7 @@ function sendToAnalytics(metric) {
   if(!['FCP', 'LCP'].includes(metric.name)) {
     return;
   }
-  const url = 'http://localhost:9200/react-load-data/_doc?pretty';
+  const url = 'http://192.168.1.193:9200/react-load-data/_doc?pretty';
   const now = new Date();
   const stat = {
     '@timestamp': now.toISOString(),
