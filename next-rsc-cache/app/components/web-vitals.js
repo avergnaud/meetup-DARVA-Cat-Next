@@ -8,7 +8,7 @@ export function WebVitals() {
     if(!['FCP', 'LCP'].includes(metric.name)) {
       return;
     }
-    const url = `http://192.168.1.196:3100/`;
+    const url = `http://192.168.1.77:3100/`;
     const now = new Date();
     const stat = {
       '@timestamp': now.toISOString(),

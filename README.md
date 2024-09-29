@@ -46,16 +46,12 @@ Depuis le répertoire `react-load-data`
 * Exécuter `npm start`
 * Requêter `http://localhost:3000`
 
-Cette première requête crée un index dans ELK [http://localhost:    /react-load-data/_search](http://localhost:9200/react-load-data/_search)
-
 ### Application Next
 
 Depuis le répertoire `next-rsc-cache`
 * Exécuter `npm install`
 * Exécuter `npm run dev`
 * Requêter `http://localhost:3000`
-
-Cette première requête crée un index dans ELK [http://localhost:9200/next-rsc-cache/_search](http://localhost:9200/next-rsc-cache/_search)
 
 ## run
 
@@ -83,6 +79,34 @@ Cette première requête crée un index dans ELK [http://localhost:9200/next-rsc
 ## Démo
 
 [batch_1_30rq.webm](./docs/batch_1_30rq.webm?raw=true)
+
+## Tests de performance
+
+[https://nextjs.org/docs/app/building-your-application/caching#data-cache](https://nextjs.org/docs/app/building-your-application/caching#data-cache)
+
+### Next.JS `{ cache: 'force-cache' }`
+
+![next force cache perfs](./docs/test_1_nextjs_forcecache.png?raw=true)
+
+### Next.JS `{ next: { revalidate: 10 } }`
+
+![next cache invalidate 10s](./docs/test_1_nextjs_invalidate_10.png?raw=true)
+
+### Next.JS `{ next: { revalidate: 5 } }`
+
+![next cache invalidate 5s](./docs/test_1_nextjs_invalidate_5.png?raw=true)
+
+### Next.JS `{ next: { revalidate: 1 } }`
+
+![next cache invalidate 1s](./docs/test_1_nextjs_invalidate_1.png?raw=true)
+
+### Next.JS `{ cache: 'no-store' }`
+
+![next no store perfs](./docs/test_1_nextjs_nostore.png?raw=true)
+
+### React sans composant de cache
+
+![react standalone](./docs/test_1_react_standalone.png?raw=true)
 
 ## Références Next.js
 
