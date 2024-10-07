@@ -1,7 +1,5 @@
 import Post from '@/app/components/Post';
 
-//export const revalidate = 10 // invalidate every 10s
-
 export default async function Home() {
 
   const d = new Date();
