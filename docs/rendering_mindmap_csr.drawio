@@ -1,9 +1,12 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="901" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1381" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1941" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;strokeColor=#00FF00;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1640" width="175" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="1749" value="NextJS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="441" y="380.5" width="150" height="70" as="geometry" />
         </mxCell>
@@ -13,14 +16,14 @@
             <mxPoint x="645" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r8Z-7FaJ2Otf5JihK0I--1783" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="GpQ6r5hlA1P1Bq5zLOfD-1779">
+        <mxCell id="r8Z-7FaJ2Otf5JihK0I--1783" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="GpQ6r5hlA1P1Bq5zLOfD-1779" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="593" y="415.91" as="sourcePoint" />
             <mxPoint x="640" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r8Z-7FaJ2Otf5JihK0I--1839" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="645" y="219" width="150" height="89.99999999999989" as="geometry" />
+          <mxGeometry x="645" y="150" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Using App Router" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="r8Z-7FaJ2Otf5JihK0I--1780">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="r8Z-7FaJ2Otf5JihK0I--1839" vertex="1">
@@ -33,10 +36,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="r8Z-7FaJ2Otf5JihK0I--1855" value="ReactJS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="439" y="-373" width="150" height="70" as="geometry" />
+          <mxGeometry x="439" y="-442" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r8Z-7FaJ2Otf5JihK0I--1856" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="639" y="-394" width="180" height="130" as="geometry" />
+          <mxGeometry x="639" y="-463" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r8Z-7FaJ2Otf5JihK0I--1857" value="&lt;font color=&quot;#000000&quot;&gt;Client components&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal; background-color: rgb(255, 255, 102);&quot; color=&quot;#000000&quot;&gt;CSR&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="r8Z-7FaJ2Otf5JihK0I--1856" vertex="1">
           <mxGeometry y="31" width="150" height="60" as="geometry" />
@@ -48,8 +51,8 @@
         </UserObject>
         <mxCell id="r8Z-7FaJ2Otf5JihK0I--1859" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-331.5" as="sourcePoint" />
-            <mxPoint x="643" y="-331.5" as="targetPoint" />
+            <mxPoint x="590" y="-400.5" as="sourcePoint" />
+            <mxPoint x="643" y="-400.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GpQ6r5hlA1P1Bq5zLOfD-1778" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -75,538 +78,538 @@
           </mxCell>
         </UserObject>
         <mxCell id="qWBqYtF_UjLQTxVWIfhI-1778" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;strokeColor=#00FF00;" parent="1" vertex="1">
-          <mxGeometry x="1232" y="-374" width="175" height="145" as="geometry" />
+          <mxGeometry x="1232" y="-443" width="175" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1778" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="220" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1778" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="840" y="151" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Data fetching" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1779">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1778">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1778" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching" id="TGwe3L0Dk0PRKiBFuvq5-1780">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1778">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1778" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1781" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1054" y="-204" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1781" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1054" y="-273" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Fetching data on the client" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1782">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1781">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1781" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching#fetching-data-on-the-client" id="TGwe3L0Dk0PRKiBFuvq5-1783">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1781">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1781" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1784" value="Not recommended" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1058" y="-104" width="146" height="30" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1784" value="Not recommended" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1058" y="-173" width="146" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1785" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1246" y="-364" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1785" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1246" y="-433" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="call &lt;code&gt;fetch&lt;/code&gt; in a &lt;code&gt;useEffect&lt;/code&gt;" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1786">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1785">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1785" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://ah-mahir.medium.com/stop-using-useeffect-2fb4dd3e0332" id="TGwe3L0Dk0PRKiBFuvq5-1787">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1785">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1785" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1788" value="Not recommended" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-267" width="146" height="30" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1788" value="Not recommended" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="-336" width="146" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1789" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1247" y="-85" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1789" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1247" y="-154" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="using&amp;nbsp;&lt;code&gt;React Query&lt;/code&gt;" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1790">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1789">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1789" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://tanstack.com/query/latest/docs/framework/react/overview" id="TGwe3L0Dk0PRKiBFuvq5-1791">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1789">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1789" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1792" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1247" y="-204" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1792" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1247" y="-273" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="using&amp;nbsp;&lt;code&gt;SWR&lt;/code&gt;" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1793">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1792">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1792" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://swr.vercel.app/fr-FR" id="TGwe3L0Dk0PRKiBFuvq5-1794">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1792">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1792" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1795" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1642" y="220" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1795" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1642" y="151" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Fetching data on the server" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1796">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1795">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1795" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching#fetching-data-on-the-client" id="TGwe3L0Dk0PRKiBFuvq5-1797">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1795">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1795" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Data caching using&amp;nbsp;&lt;code&gt;SWR&lt;/code&gt;" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1800">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-            <mxGeometry x="1440" y="-174.0000000000001" width="150" height="60" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+            <mxGeometry x="1440" y="-243.0000000000001" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Data caching using&amp;nbsp;&lt;code&gt;React Query&lt;/code&gt;" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1801">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-            <mxGeometry x="1440" y="-57.000000000000114" width="150" height="60" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+            <mxGeometry x="1440" y="-126.00000000000011" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1802" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="28" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1802" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="840" y="-41" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Routing" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1803">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1802">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1802" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/routing" id="TGwe3L0Dk0PRKiBFuvq5-1804">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1802">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1802" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1805" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1857" target="TGwe3L0Dk0PRKiBFuvq5-1782">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1805" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1857" target="TGwe3L0Dk0PRKiBFuvq5-1782" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="-44" as="sourcePoint" />
-            <mxPoint x="1080" y="-94" as="targetPoint" />
+            <mxPoint x="1030" y="-113" as="sourcePoint" />
+            <mxPoint x="1080" y="-163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1806" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1779" target="TGwe3L0Dk0PRKiBFuvq5-1782">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1806" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1779" target="TGwe3L0Dk0PRKiBFuvq5-1782" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="-309.5" as="sourcePoint" />
-            <mxPoint x="1036" y="-120.5" as="targetPoint" />
+            <mxPoint x="600" y="-378.5" as="sourcePoint" />
+            <mxPoint x="1036" y="-189.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1807" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1807" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="850" y="1383" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Caching" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1808">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1807">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1807" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching" id="TGwe3L0Dk0PRKiBFuvq5-1809">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1807">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1807" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1810" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1863" y="747" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1810" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1878" y="747" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Fetching data on the server with fetch" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1811">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1810">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1810" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching#fetching-data-on-the-server-with-the-fetch-api" id="TGwe3L0Dk0PRKiBFuvq5-1812">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1810">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1810" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1813" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1813" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1249" y="1709" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Data Cache" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1814">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1813">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1813" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#data-cache" id="TGwe3L0Dk0PRKiBFuvq5-1815">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1813">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1813" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1816" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1796" target="TGwe3L0Dk0PRKiBFuvq5-1811">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1816" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1796" target="TGwe3L0Dk0PRKiBFuvq5-1811" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1679" y="310" as="sourcePoint" />
             <mxPoint x="1729" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1817" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1937" target="TGwe3L0Dk0PRKiBFuvq5-1811">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1817" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1937" target="TGwe3L0Dk0PRKiBFuvq5-1811" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1804" y="1047.0000000000005" as="sourcePoint" />
             <mxPoint x="1928" y="806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1819" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1862" y="918.5" width="150" height="89.99999999999989" as="geometry" />
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1819" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1877" y="918.5" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Caching Data with an ORM or database" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1820">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1819">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1819" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching#caching-data-with-an-orm-or-database" id="TGwe3L0Dk0PRKiBFuvq5-1821">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1819">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1819" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1823" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1796" target="TGwe3L0Dk0PRKiBFuvq5-1820">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1823" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1796" target="TGwe3L0Dk0PRKiBFuvq5-1820" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1601" y="290" as="sourcePoint" />
             <mxPoint x="1657" y="394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1824" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1937" target="TGwe3L0Dk0PRKiBFuvq5-1820">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1824" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1937" target="TGwe3L0Dk0PRKiBFuvq5-1820" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1804" y="1141.0000000000005" as="sourcePoint" />
             <mxPoint x="1860" y="1072.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1825" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1779" target="TGwe3L0Dk0PRKiBFuvq5-1848">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1825" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1779" target="TGwe3L0Dk0PRKiBFuvq5-1848" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1002" y="290" as="sourcePoint" />
-            <mxPoint x="1210" y="280" as="targetPoint" />
+            <mxPoint x="1002" y="221" as="sourcePoint" />
+            <mxPoint x="1210" y="211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Server side" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1829">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
             <mxGeometry x="1049" y="1413" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1830" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1830" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1249" y="1384" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Request memoization" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1831">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1830">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1830" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#request-memoization" id="TGwe3L0Dk0PRKiBFuvq5-1832">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1830">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1830" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="For fetch requests" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1833">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
             <mxGeometry x="1459" y="1414" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1834" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1834" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1459" y="1514" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Using React cache function" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1835">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1834">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1834" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#react-cache-function" id="TGwe3L0Dk0PRKiBFuvq5-1836">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1834">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1834" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;code&gt;unstable_cache API&lt;/code&gt;" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1837">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-            <mxGeometry x="2073" y="948.4999999999999" width="150" height="60" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+            <mxGeometry x="2088" y="948.4999999999999" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1838" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1838" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="850" y="530" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Rendering" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1839">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1838">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1838" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering" id="TGwe3L0Dk0PRKiBFuvq5-1840">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1838">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1838" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1841">
-          <mxCell style="group" vertex="1" connectable="0" parent="1">
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="1050" y="530" width="150" height="89.99999999999989" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Server Components&lt;div&gt;&lt;font style=&quot;background-color: rgb(255, 255, 102);&quot; color=&quot;#000000&quot;&gt;RSC&lt;/font&gt;&lt;/div&gt;" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1842">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1841">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1841" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1843">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1841">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1841" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" id="TGwe3L0Dk0PRKiBFuvq5-1847">
-          <mxCell style="group" vertex="1" connectable="0" parent="1">
-            <mxGeometry x="1442" y="220" width="150" height="89.99999999999989" as="geometry" />
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
+            <mxGeometry x="1442" y="151" width="150" height="89.99999999999989" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Data fetching and caching" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1848">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1847">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1847" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching#fetching-data-on-the-client" id="TGwe3L0Dk0PRKiBFuvq5-1849">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1847">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1847" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" id="TGwe3L0Dk0PRKiBFuvq5-1850">
-          <mxCell style="group" vertex="1" connectable="0" parent="1">
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="1442" y="350" width="150" height="89.99999999999989" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Incremental Static Regeneration (ISR)" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1851">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1850">
+        <UserObject label="Routes rendered after data revalidation" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1851">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1850" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/incremental-static-regeneration" id="TGwe3L0Dk0PRKiBFuvq5-1852">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1850">
+        <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating#revalidating-data" id="TGwe3L0Dk0PRKiBFuvq5-1852">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1850" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1853" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1779" target="TGwe3L0Dk0PRKiBFuvq5-1851">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1853" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1779" target="TGwe3L0Dk0PRKiBFuvq5-1851" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1002" y="290" as="sourcePoint" />
             <mxPoint x="1247" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1854">
-          <mxCell style="group" vertex="1" connectable="0" parent="1">
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="1250" y="530" width="150" height="89.99999999999989" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Static rendering&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;SSG&lt;/font&gt;&lt;/span&gt; (default)&lt;/div&gt;" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1855">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1854">
+        <UserObject label="Static rendering&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(default)&lt;/span&gt;&lt;/div&gt;" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1855">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1854" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components#static-rendering-default" id="TGwe3L0Dk0PRKiBFuvq5-1856">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1854">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1854" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1857" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1855" target="TGwe3L0Dk0PRKiBFuvq5-1851">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1857" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1855" target="TGwe3L0Dk0PRKiBFuvq5-1851" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1144" y="690" as="sourcePoint" />
             <mxPoint x="1592" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1858">
-          <mxCell style="group" vertex="1" connectable="0" parent="1">
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="1250" y="688" width="150" height="89.99999999999989" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Dynamic rendering" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1859">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1858">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1858" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components#dynamic-rendering" id="TGwe3L0Dk0PRKiBFuvq5-1860">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1858">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1858" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components#streaming" id="TGwe3L0Dk0PRKiBFuvq5-1861">
-          <mxCell style="group" vertex="1" connectable="0" parent="1">
+          <mxCell style="group" parent="1" vertex="1" connectable="0">
             <mxGeometry x="1250" y="822" width="150" height="89.99999999999989" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Streaming" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1862">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1861">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1861" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components#dynamic-rendering" id="TGwe3L0Dk0PRKiBFuvq5-1863">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1861">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1861" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1864" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" edge="1" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1864" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1201" y="1233" as="sourcePoint" />
             <mxPoint x="1254" y="1168" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1865" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" edge="1" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1865" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1203" y="1233" as="sourcePoint" />
             <mxPoint x="1256" y="1298" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1866" value="suivi de :" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1866" value="suivi de :" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" parent="1" vertex="1">
           <mxGeometry x="1256" y="1208.5" width="92" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1867" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1867" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1050" y="1169" width="150" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1868" value="&lt;font color=&quot;#000000&quot;&gt;Client components&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal; background-color: rgb(255, 255, 102);&quot; color=&quot;#000000&quot;&gt;SSR&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1867">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1868" value="&lt;font color=&quot;#000000&quot;&gt;Client components&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-weight: normal; background-color: rgb(255, 255, 102);&quot; color=&quot;#000000&quot;&gt;SSR&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1867" vertex="1">
           <mxGeometry y="31" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/client-components" id="TGwe3L0Dk0PRKiBFuvq5-1869">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1867">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1867" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1870" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1870" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1255" y="1109" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1871" value="&lt;font color=&quot;#000000&quot;&gt;initial full page load&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1870">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1871" value="&lt;font color=&quot;#000000&quot;&gt;initial full page load&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1870" vertex="1">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/client-components#full-page-load" id="TGwe3L0Dk0PRKiBFuvq5-1872">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1870">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1870" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1873" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1873" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1255" y="1237" width="150" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1874" value="&lt;font color=&quot;#000000&quot;&gt;navigation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1873">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1874" value="&lt;font color=&quot;#000000&quot;&gt;navigation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1873" vertex="1">
           <mxGeometry y="31" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/client-components#subsequent-navigations" id="TGwe3L0Dk0PRKiBFuvq5-1875">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1873">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1873" vertex="1">
             <mxGeometry x="1" width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1876" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1876" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1454" y="1234" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1877" value="&lt;font color=&quot;#000000&quot;&gt;hydration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1876">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1877" value="&lt;font color=&quot;#000000&quot;&gt;hydration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1876" vertex="1">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://react.dev/reference/react-dom/client/hydrateRoot" id="TGwe3L0Dk0PRKiBFuvq5-1878">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1876">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1876" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1879" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1879" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1454" y="1104.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1880" value="&lt;font color=&quot;#000000&quot;&gt;RSC parser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1879">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1880" value="&lt;font color=&quot;#000000&quot;&gt;RSC parser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1879" vertex="1">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://rsc-parser.vercel.app/" id="TGwe3L0Dk0PRKiBFuvq5-1881">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1879">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1879" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1882" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1882" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1465" y="1045" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1883" value="&lt;font color=&quot;#000000&quot;&gt;RSC payload&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1882">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1883" value="&lt;font color=&quot;#000000&quot;&gt;RSC payload&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1882" vertex="1">
           <mxGeometry x="-11" y="-35" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components#what-is-the-react-server-component-payload-rsc" id="TGwe3L0Dk0PRKiBFuvq5-1884">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1882">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1882" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1885" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1871">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1885" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1871" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1420" y="1165.5" as="sourcePoint" />
             <mxPoint x="1452" y="1031" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1886" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1871">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1886" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1871" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1420" y="1166.91" as="sourcePoint" />
             <mxPoint x="1452" y="1301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1887" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" edge="1" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1887" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="1166" as="sourcePoint" />
             <mxPoint x="1452" y="1165.91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1888" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1888" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1643" y="1234" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1889" value="&lt;font color=&quot;#000000&quot;&gt;hydration&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;failure&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1888">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1889" value="&lt;font color=&quot;#000000&quot;&gt;hydration&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;failure&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1888" vertex="1">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1892" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1839" target="TGwe3L0Dk0PRKiBFuvq5-1842">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1892" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1839" target="TGwe3L0Dk0PRKiBFuvq5-1842" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1440" y="830" as="sourcePoint" />
             <mxPoint x="1490" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1893" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1839" target="TGwe3L0Dk0PRKiBFuvq5-1868">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1893" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1839" target="TGwe3L0Dk0PRKiBFuvq5-1868" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1012" y="600" as="sourcePoint" />
             <mxPoint x="1058" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1910" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1910" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1450" y="721" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1911" value="&lt;font color=&quot;#000000&quot;&gt;Using uncached data request&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1910">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1911" value="&lt;font color=&quot;#000000&quot;&gt;Using uncached data request&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1910" vertex="1">
           <mxGeometry y="54" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1913" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1913" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1448" y="640" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1914" value="&lt;font color=&quot;#000000&quot;&gt;Using a dynamic function&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1913">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1914" value="&lt;font color=&quot;#000000&quot;&gt;Using a dynamic function&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1913" vertex="1">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components#dynamic-functions" id="TGwe3L0Dk0PRKiBFuvq5-1915">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1913">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1913" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1916" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1859" target="TGwe3L0Dk0PRKiBFuvq5-1914">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1916" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1859" target="TGwe3L0Dk0PRKiBFuvq5-1914" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" y="710" as="sourcePoint" />
             <mxPoint x="1640" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1917" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1859" target="TGwe3L0Dk0PRKiBFuvq5-1911">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1917" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1859" target="TGwe3L0Dk0PRKiBFuvq5-1911" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1401.9999999999995" y="772.0000000000005" as="sourcePoint" />
             <mxPoint x="1458" y="702" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1921" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1921" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1250" y="1935" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Full Route Cache" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1922">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1921">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1921" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#full-route-cache" id="TGwe3L0Dk0PRKiBFuvq5-1923">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1921">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1921" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1924" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1924" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1450" y="1935" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="opting out" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1925">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1924">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1924" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#opting-out-2" id="TGwe3L0Dk0PRKiBFuvq5-1926">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1924">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1924" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1927" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1925" target="TGwe3L0Dk0PRKiBFuvq5-1859">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1927" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1925" target="TGwe3L0Dk0PRKiBFuvq5-1859" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1660" y="1980" as="sourcePoint" />
             <mxPoint x="1200" y="730" as="targetPoint" />
@@ -619,211 +622,279 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1928" value="opt out of the Full Route Cache =&amp;nbsp;dynamically render components for every incoming request" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1928" value="opt out of the Full Route Cache =&amp;nbsp;dynamically render components for every incoming request" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1250" y="2030" width="361" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1929" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1831" target="TGwe3L0Dk0PRKiBFuvq5-1833">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1929" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1831" target="TGwe3L0Dk0PRKiBFuvq5-1833" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1440" y="1502" as="sourcePoint" />
             <mxPoint x="1490" y="1452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1930" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1831" target="TGwe3L0Dk0PRKiBFuvq5-1835">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1930" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1831" target="TGwe3L0Dk0PRKiBFuvq5-1835" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1440" y="1502" as="sourcePoint" />
             <mxPoint x="1490" y="1452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1931" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1931" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1454" y="1651" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="using cache option of fetch" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1932">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1931">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1931" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#fetch-optionscache" id="TGwe3L0Dk0PRKiBFuvq5-1933">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1931">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1931" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1934" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1450" y="1782" width="150" height="89.99999999999989" as="geometry" />
-        </mxCell>
-        <UserObject label="using revalidate option of fetch" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1935">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1934">
-            <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#fetch-optionsnextrevalidate" id="TGwe3L0Dk0PRKiBFuvq5-1936">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1934">
-            <mxGeometry width="40" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1937" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1937" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1627" y="1672" width="20" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1938" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1814" target="TGwe3L0Dk0PRKiBFuvq5-1932">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1938" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1814" target="TGwe3L0Dk0PRKiBFuvq5-1932" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1570" y="1802" as="sourcePoint" />
             <mxPoint x="1620" y="1752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1939" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1814" target="TGwe3L0Dk0PRKiBFuvq5-1935">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1939" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1814" target="TGwe3L0Dk0PRKiBFuvq5-1935" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1570" y="1802" as="sourcePoint" />
             <mxPoint x="1620" y="1752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1940" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1922" target="TGwe3L0Dk0PRKiBFuvq5-1925">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1940" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1922" target="TGwe3L0Dk0PRKiBFuvq5-1925" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1570" y="1942" as="sourcePoint" />
             <mxPoint x="1620" y="1892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1941" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=10;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1637" width="175" height="255" as="geometry" />
-        </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1942" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1942" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1250" y="2132" width="150" height="89.99999999999989" as="geometry" />
         </mxCell>
         <UserObject label="Router Cache" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1943">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1942">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1942" vertex="1">
             <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#client-side-router-cache" id="TGwe3L0Dk0PRKiBFuvq5-1944">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="TGwe3L0Dk0PRKiBFuvq5-1942">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1942" vertex="1">
             <mxGeometry width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1945" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1803">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1945" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1803" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110" y="200" as="sourcePoint" />
-            <mxPoint x="1160" y="150" as="targetPoint" />
+            <mxPoint x="1110" y="131" as="sourcePoint" />
+            <mxPoint x="1160" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1946" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1779">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1946" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1779" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110" y="200" as="sourcePoint" />
-            <mxPoint x="1160" y="150" as="targetPoint" />
+            <mxPoint x="1110" y="131" as="sourcePoint" />
+            <mxPoint x="1160" y="81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1947" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1839">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1947" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1839" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="380" as="sourcePoint" />
             <mxPoint x="1020" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1948" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1808">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1948" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="r8Z-7FaJ2Otf5JihK0I--1780" target="TGwe3L0Dk0PRKiBFuvq5-1808" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="807" y="289" as="sourcePoint" />
             <mxPoint x="858" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1949" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1808" target="TGwe3L0Dk0PRKiBFuvq5-1829">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1949" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1808" target="TGwe3L0Dk0PRKiBFuvq5-1829" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1034" y="1352" as="sourcePoint" />
             <mxPoint x="1084" y="1302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1950" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1829" target="TGwe3L0Dk0PRKiBFuvq5-1831">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1950" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1829" target="TGwe3L0Dk0PRKiBFuvq5-1831" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1012" y="1453" as="sourcePoint" />
             <mxPoint x="1057" y="1453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Client side" linkTarget="_blank" id="TGwe3L0Dk0PRKiBFuvq5-1951">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
             <mxGeometry x="1050" y="2162" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1952" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1808" target="TGwe3L0Dk0PRKiBFuvq5-1951">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1952" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1808" target="TGwe3L0Dk0PRKiBFuvq5-1951" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1012" y="1453" as="sourcePoint" />
             <mxPoint x="1057" y="1453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1954" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1951" target="TGwe3L0Dk0PRKiBFuvq5-1943">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1954" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1951" target="TGwe3L0Dk0PRKiBFuvq5-1943" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1490" y="2092" as="sourcePoint" />
             <mxPoint x="1540" y="2042" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1956" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1829" target="TGwe3L0Dk0PRKiBFuvq5-1814">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1956" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1829" target="TGwe3L0Dk0PRKiBFuvq5-1814" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1012" y="1453" as="sourcePoint" />
             <mxPoint x="1057" y="1453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1957" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1829" target="TGwe3L0Dk0PRKiBFuvq5-1922">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1957" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1829" target="TGwe3L0Dk0PRKiBFuvq5-1922" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1490" y="1802" as="sourcePoint" />
             <mxPoint x="1540" y="1752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1958" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1877" target="TGwe3L0Dk0PRKiBFuvq5-1889">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1958" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1877" target="TGwe3L0Dk0PRKiBFuvq5-1889" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1670" y="1180" as="sourcePoint" />
             <mxPoint x="1720" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1959" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1842" target="TGwe3L0Dk0PRKiBFuvq5-1855">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1959" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1842" target="TGwe3L0Dk0PRKiBFuvq5-1855" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1560" y="900" as="sourcePoint" />
             <mxPoint x="1610" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1960" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1842" target="TGwe3L0Dk0PRKiBFuvq5-1859">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1960" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1842" target="TGwe3L0Dk0PRKiBFuvq5-1859" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1560" y="900" as="sourcePoint" />
             <mxPoint x="1610" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1961" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1842" target="TGwe3L0Dk0PRKiBFuvq5-1862">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1961" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1842" target="TGwe3L0Dk0PRKiBFuvq5-1862" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1560" y="900" as="sourcePoint" />
             <mxPoint x="1610" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1962" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1782" target="TGwe3L0Dk0PRKiBFuvq5-1786">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1962" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1782" target="TGwe3L0Dk0PRKiBFuvq5-1786" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1234" y="-104" as="sourcePoint" />
-            <mxPoint x="1284" y="-154" as="targetPoint" />
+            <mxPoint x="1234" y="-173" as="sourcePoint" />
+            <mxPoint x="1284" y="-223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1963" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1782" target="TGwe3L0Dk0PRKiBFuvq5-1793">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1963" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1782" target="TGwe3L0Dk0PRKiBFuvq5-1793" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1214" y="-164" as="sourcePoint" />
-            <mxPoint x="1264" y="-214" as="targetPoint" />
+            <mxPoint x="1214" y="-233" as="sourcePoint" />
+            <mxPoint x="1264" y="-283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1964" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1782" target="TGwe3L0Dk0PRKiBFuvq5-1790">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1964" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1782" target="TGwe3L0Dk0PRKiBFuvq5-1790" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1214" y="-164" as="sourcePoint" />
-            <mxPoint x="1264" y="-214" as="targetPoint" />
+            <mxPoint x="1214" y="-233" as="sourcePoint" />
+            <mxPoint x="1264" y="-283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1965" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1793" target="TGwe3L0Dk0PRKiBFuvq5-1800">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1965" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1793" target="TGwe3L0Dk0PRKiBFuvq5-1800" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1150" y="-104" as="sourcePoint" />
-            <mxPoint x="1200" y="-154" as="targetPoint" />
+            <mxPoint x="1150" y="-173" as="sourcePoint" />
+            <mxPoint x="1200" y="-223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1966" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1790" target="TGwe3L0Dk0PRKiBFuvq5-1801">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1966" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1790" target="TGwe3L0Dk0PRKiBFuvq5-1801" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1150" y="6" as="sourcePoint" />
-            <mxPoint x="1200" y="-44" as="targetPoint" />
+            <mxPoint x="1150" y="-63" as="sourcePoint" />
+            <mxPoint x="1200" y="-113" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1967" value="Switching to dynamic rendering" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1967" value="Switching to dynamic rendering" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1090" y="756" width="122" height="39" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/rendering/server-components#switching-to-dynamic-rendering" id="TGwe3L0Dk0PRKiBFuvq5-1968">
-          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="1">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="1" vertex="1">
             <mxGeometry x="1172" y="726" width="40" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Routes rendered at build time&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;SSG&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" linkTarget="_blank" id="cPMhI7GfA7mOGjBRyHvl-1749">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+            <mxGeometry x="1448" y="559.9999999999999" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cPMhI7GfA7mOGjBRyHvl-1750" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1855" target="cPMhI7GfA7mOGjBRyHvl-1749">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="660" as="sourcePoint" />
+            <mxPoint x="1340" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" id="cPMhI7GfA7mOGjBRyHvl-1751">
+          <mxCell style="group" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="1640" y="290" width="150" height="89.99999999999989" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="On demand revalidation" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="cPMhI7GfA7mOGjBRyHvl-1752">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="cPMhI7GfA7mOGjBRyHvl-1751">
+            <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating#on-demand-revalidation" id="cPMhI7GfA7mOGjBRyHvl-1753">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="cPMhI7GfA7mOGjBRyHvl-1751">
+            <mxGeometry width="40" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" id="cPMhI7GfA7mOGjBRyHvl-1754">
+          <mxCell style="group" vertex="1" connectable="0" parent="1">
+            <mxGeometry x="1640" y="414" width="150" height="89.99999999999989" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Time based revalidation" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="cPMhI7GfA7mOGjBRyHvl-1755">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="cPMhI7GfA7mOGjBRyHvl-1754">
+            <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating#time-based-revalidation" id="cPMhI7GfA7mOGjBRyHvl-1756">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" vertex="1" parent="cPMhI7GfA7mOGjBRyHvl-1754">
+            <mxGeometry width="40" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cPMhI7GfA7mOGjBRyHvl-1757" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cPMhI7GfA7mOGjBRyHvl-1755" target="TGwe3L0Dk0PRKiBFuvq5-1935">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="471.5" as="sourcePoint" />
+            <mxPoint x="1420" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1810" y="474" />
+              <mxPoint x="1810" y="1900" />
+              <mxPoint x="1420" y="1900" />
+              <mxPoint x="1420" y="1842" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGwe3L0Dk0PRKiBFuvq5-1934" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1450" y="1782" width="150" height="89.99999999999989" as="geometry" />
+        </mxCell>
+        <UserObject label="using revalidate option of fetch" linkTarget="_blank" link="https://rc.nextjs.org/docs/app/building-your-application/rendering/server-components" id="TGwe3L0Dk0PRKiBFuvq5-1935">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="TGwe3L0Dk0PRKiBFuvq5-1934" vertex="1">
+            <mxGeometry y="29.999999999999886" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 28px;&quot;&gt;&lt;code style=&quot;font-size: 28px;&quot;&gt;&lt;h1 data-text=&quot;🔗&quot; class=&quot;char Zyyy U1F517&quot; style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🔗&lt;/font&gt;&lt;/h1&gt;&lt;/code&gt;&lt;/div&gt;" link="https://nextjs.org/docs/app/building-your-application/caching#fetch-optionsnextrevalidate" id="TGwe3L0Dk0PRKiBFuvq5-1936">
+          <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=28;" parent="TGwe3L0Dk0PRKiBFuvq5-1934" vertex="1">
+            <mxGeometry width="40" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cPMhI7GfA7mOGjBRyHvl-1758" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1848" target="TGwe3L0Dk0PRKiBFuvq5-1796">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="340" as="sourcePoint" />
+            <mxPoint x="1680" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPMhI7GfA7mOGjBRyHvl-1759" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1851" target="cPMhI7GfA7mOGjBRyHvl-1752">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="610" as="sourcePoint" />
+            <mxPoint x="1680" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cPMhI7GfA7mOGjBRyHvl-1760" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TGwe3L0Dk0PRKiBFuvq5-1851" target="cPMhI7GfA7mOGjBRyHvl-1755">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1630" y="610" as="sourcePoint" />
+            <mxPoint x="1680" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
